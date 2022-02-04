@@ -1,13 +1,13 @@
 {
   "name": "Catuserbot",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Jisan ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "logo": "https://te.legra.ph/file/99d03d5f83650aa3f4afe.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/prono69/pepecat/",
+  "repository": "https://github.com/Ajprofessor24/pepecat/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
